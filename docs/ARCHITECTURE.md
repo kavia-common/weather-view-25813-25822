@@ -7,6 +7,9 @@ This document provides an architecture overview, implementation plan, coding sta
 - Basic unit test (src/App.test.js).
 - ESLint configuration (eslint.config.mjs) and standard CRA linting via package.json.
 
+Refer to the diagrams for visual context:
+- See docs/DIAGRAMS.md for System Context, Component Hierarchy, Data Flow, Sequence, and Deployment diagrams.
+
 ## Tech Stack
 - Framework: React 18 (CRA)
 - Tooling: react-scripts (start/build/test)
